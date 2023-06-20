@@ -1,8 +1,6 @@
 # VolunteerVoucher
 A mobile app built with flutter, dart and Google Firestore Database designed for volunteer organizations to keep track of their members and projects
 
-VolunteerVoucher App
-
 ## Introduction
 This Flutter app is designed to help volunteer organizations track all the projects their members are working on, as well as all the members in one project. The app uses Google Firestore as its backend, and Firebase Authentication for user authentication.
 Features
